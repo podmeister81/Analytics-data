@@ -1,0 +1,49 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: AptamerGroup
+# Property: www.aptamergroup.com
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230101
+# End date: 20231231
+Event name,Event count,Total users,Event count per user,Total revenue
+page_view,129094,29418,4.389160886712906,0
+user_engagement,73059,19474,3.814095536413469,0
+session_start,44722,29400,1.5220883534136547,0
+first_visit,29188,29008,1.0062051847766134,0
+scroll,23904,10895,2.197058823529412,0
+click,2267,1339,1.6968562874251496,0
+file_download,1976,1128,1.75177304964539,0
+view_search_results,402,229,1.755458515283843,0
+Download application note,82,67,1.2238805970149254,0
+Download Cortisol Datasheet,15,15,1,0
+Download Cortisol Datapack,12,9,1.3333333333333333,0
+Download imatinib Datasheet,10,7,1.4285714285714286,0
+Download folic acid Datasheet,7,7,1,0
+optimer conjugate wp,7,3,2.3333333333333335,0
+DS+DP table contact us,5,1,5,0
+Download Cortisol Datasheethttps://aptam,5,2,2.5,0
+Download methyltetrahydrofolate Datashee,5,5,1,0
+Download SARS CoV-2 S1 Datasheet,4,3,1.3333333333333333,0
+Download hemopexin Datasheet,4,4,1,0
+Download CD4 Datasheet,3,3,1,0
+Download Genetically detoxified Pertussi,3,3,1,0
+Download folic acid Datasheethttps://apt,3,2,1.5,0
+Download formyltetrahydrofolate Datashee,3,3,1,0
+Download gp120 Datasheet,3,3,1,0
+Download irinotecan Datasheet,3,3,1,0
+generate_lead,3,1,3,0
+Download Folic Acid Datapack,2,2,1,0
+Download SARS CoV-2 S2 Datasheet,2,2,1,0
+"<img decoding=""async"" src=""https://aptam",1,1,1,0
+DS+DP Table contact us,1,1,1,0
+Download CD4 Datasheethttps://aptamergro,1,1,1,0
+Download Imatinib Datapack,1,1,1,0
+Download Irinotecan Datapack,1,1,1,0
+Download SARS CoV-2 S1 Datasheethttps://,1,1,1,0
+Download SARS CoV-2 S2 Datasheethttps://,1,1,1,0
+Download gp120 Datasheethttps://aptamerg,1,1,1,0
+Download hemopexin Datasheethttps://apta,1,1,1,0
+Download imatinib Datasheethttps://aptam,1,1,1,0
+https://aptamergroup.com/wp-content/uplo,1,1,1,0
